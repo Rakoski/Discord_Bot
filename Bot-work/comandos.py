@@ -167,4 +167,4 @@ async def ajuda(ctx):
                    "!clima\n")
 
 
-bot.run('MTA5MDA0MzI4MDA1OTgwMTYzMA.Gt--JE.3taTtaL25Z3fldkXh7HMCJIhnd5lBggd49zU6c')
+bot.run('your_token')
