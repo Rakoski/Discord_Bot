@@ -1,5 +1,4 @@
-#Essa é minha Readme para o bot // This is my README for the bot
-
+# Essa é minha Readme para o bot do discord // This is my README for the discord bot
 
 Esse repositório serve primariamente como forma de testar o github, mas também de mostrar meu primeiro projeto solo em Python
 
